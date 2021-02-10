@@ -1,5 +1,5 @@
 # Likhodievski Aleksey (CV)
-##My life untill kindergarten
+## My life untill kindergarten
 I was born in 2002 in Minsk. At the age of 2 I went to the kindergarten.
 ## My first years of school
 When I was 6 y.o. I went to the gymnasium 192. Since grade 5 I was studying in school #161.
