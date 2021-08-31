@@ -13,8 +13,8 @@ As a result of this knowledge, I can develop full-stack web applications. I want
 I love programming and work with people I'm smart and fast educating. I love trying something new
 
 ## 📫 How to reach me:
-- [FaceBook](https://www.facebook.com/profile.php?id=100009542711202)
 - [LinkedIn](https://www.linkedin.com/in/aleksey-likhodievski-173112219//)
+- [FaceBook](https://www.facebook.com/profile.php?id=100009542711202)
 
 Looking to collaboration on Full-stack React + Node.js projects.
 
