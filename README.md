@@ -1,4 +1,4 @@
-# Likhodievski Aleksey (CV)
+# Likhodievski Aleksey
 
 I am a full-time student at BSUIR and already have web development skills. The last two years I have devoted myself to self-study in the front-end direction, I studied 
 - HTML;
