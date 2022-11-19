@@ -1,20 +1,36 @@
 # Likhodievski Aleksey
 
-I am a full-time student at BSUIR and already have web development skills. The last two years I have devoted myself to self-study in the front-end direction, I studied 
-- HTML;
-- CSS;
-- JavaScript; 
-- React.js.
+I'm a certified front-end developer. I study CS at BSUIR.
 
-Familiar with Node.js and SQL.
+Interested in:
+-
+- Cryptocurrencies and blockchain
+- Active lifestyle
+- Health
+- Traveling
+- Guitar
 
-As a result of this knowledge, I can develop full-stack web applications. I want to improve my skills and am open to new knowledge and technologies. I have the ability to self-organization, the desire to develop and improve myself. I am responsible, ambitious and purposeful.
+## My experience:
+- Front-end developer (junior) Nov 2021 - Present
+- Front-end developer (trainee) Sept 2021 - Nov 2021
 
-I love programming and work with people I'm smart and fast educating. I love trying something new
+## My tech stack:
+- Typescript with React like frameworks including React Native
+- Stitches and Styled Components for styling
+- React Query, Redux and Recoil for state managment
+- NestJs
+- MongoDB and Postgres as DBs
+- PrismaORM
+- GraphQL
+- ElectronJS
+- Docker
+- Ant Design and Material UI
+- Git
 
-## 📫 How to reach me:
+There is no problem for me to learn speciefic framework to work with
+
+## My contacts:
 - [LinkedIn](https://www.linkedin.com/in/aleksey-likhodievski-173112219//)
-- [FaceBook](https://www.facebook.com/profile.php?id=100009542711202)
+- [Telegram](https://t.me/a_likhodievski)
 
-Looking to collaboration on Full-stack React + Node.js projects.
-
+![Front-end certification](https://user-images.githubusercontent.com/53303633/202861992-5b557ff9-c5b8-44cd-a453-ae3cd2395ab6.jpg)
