@@ -1,4 +1,4 @@
-# Likhodievski Aleksey
+# Aleksey Likhodievski
 
 Ambitious software developer with 1.5+ years of experience increating complicated web applications. Eager to make efficientdecisions, learn more and become the best version of myself.
 
@@ -56,7 +56,7 @@ Bachelor of Telecommunications engineering<br>
 ## Courses
 
 Student Front-end Engineer @ [TeachMeSkills](https://teachmeskills.by/)<br>
-[Certificate](https://user-images.githubusercontent.com/53303633/202861992-5b557ff9-c5b8-44cd-a453-ae3cd2395ab6.jpg) - Minsk, Belarus _(2021 - 2022)_
+[Certificate](https://user-images.githubusercontent.com/53303633/202861992-5b557ff9-c5b8-44cd-a453-ae3cd2395ab6.jpg) - _(Sep 2021 - May 2022)_
 
 SQL Workshop on Stepik<br>
 [Certificate](https://stepik.org/cert/1997492) - _2023_
