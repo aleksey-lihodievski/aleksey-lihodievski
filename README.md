@@ -34,6 +34,7 @@ Ambitious software developer with 1.5+ years of experience increating complicate
 - HTML
 - CSS
 - Javascript
+- Go
 - Webpack
 - Docker
 - MS SQL
